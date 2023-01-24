@@ -7,4 +7,4 @@ O código "mpu1" é a simples leitura dos valores fornecidos pelo sensor, e o "s
 
 A biblioteca "Arduino-PID-Library-master" é necessária para fazer o sistema de controle PID funcionar corretamente.
 
-Os códigos podem ser baixados e editados como quiser. Dentro da pasta também há a esquematização do circuito criado para controlar o sistema de empuxo vetorial e fotos do aparato de testes montado.
+Os códigos podem ser baixados e editados como quiser. Dentro da pasta também há a esquematização do circuito criado para controlar o sistema de empuxo vetorial, fotos do aparato de testes montado e um print do CAD da estrutura.
